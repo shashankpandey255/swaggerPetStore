@@ -5,7 +5,8 @@
 
 <test name="Test1">
     <classes>
-  		<class name="com.qa.restCalls.GetPets"/> 			
+  <!--  	<class name="com.qa.restCalls.GetPets"/> 	-->	
+  		<class name="com.qa.restCalls.Practice"/>		
 	</classes>
 </test>
  
